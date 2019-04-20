@@ -6,3 +6,4 @@ change the ssh key.
 github
 list	
 liasl all
+list all the commands now !
