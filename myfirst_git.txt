@@ -5,3 +5,4 @@ added ssh keys to github.
 change the ssh key.
 github
 list	
+liasl all
